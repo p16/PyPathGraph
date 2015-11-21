@@ -14,6 +14,8 @@ edges = [
 ]
 ```
 
+**Note: `from` and `to` are mandatory, but each dictionary can contains also other keys**
+
 ## Output
 
 The has the same format as the input, but sorted :)
