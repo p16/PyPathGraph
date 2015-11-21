@@ -14,7 +14,7 @@ edges = [
 ]
 ```
 
-**Note: `from` and `to` are mandatory, but each dictionary can contains also other keys**
+**Note: `from` and `to` are mandatory, but each dictionary can contains also other keys that will be preserved**
 
 ## Output
 
